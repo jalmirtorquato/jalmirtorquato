@@ -1,7 +1,7 @@
 
 # 👩🏻‍💻 Jalmir Torquato
 
-**`Desenvolvedor FullStack | Administrador de Empresas `**
+**`Desenvolvedor FullStack Júnior `**
 
 Sou um profissional de 32 anos, apaixonado por tecnologia desde a adolescência, que decidiu consolidar essa paixão em carreira. Atualmente, unificando 6 anos de experiência em gestão de processos e qualidade.
 
