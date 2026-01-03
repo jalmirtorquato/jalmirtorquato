@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack | Administrador de Empresas `**
 
-Sou um profissional de 32 anos, apaixonado por tecnologia desde a adolescência, que decidiu consolidar essa paixão em carreira. Atualmente, trabalhando a mais de 6 anos de experiência em gestão de processos e qualidade**.
+Sou um profissional de 32 anos, apaixonado por tecnologia desde a adolescência, que decidiu consolidar essa paixão em carreira. Atualmente, unifico 6 anos de experiência em gestão de processos e qualidade.
 
 ---
 
