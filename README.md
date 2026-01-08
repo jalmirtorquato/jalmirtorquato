@@ -20,6 +20,14 @@ Sou um profissional de 32 anos, apaixonado por tecnologia desde a adolescência,
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+
+
 ### Gestão e Análise
 - **Metodologias:** Lean Seis Sigma, 5S e OKRs.
 - **Data & Business:** Power BI, Excel Intermediario e ERPs.
