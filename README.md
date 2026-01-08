@@ -8,31 +8,23 @@ Sou um profissional de 32 anos, apaixonado por tecnologia desde a adolescência,
 ---
 
 ## 👨‍💻 Sobre Mim
-- ⚡ **Transição de Carreira:** Após uma trajetória sólida na indústria e administração, migrei para o ecossistema tech há 3 meses através da **DEVCLUB**.
+- ⚡ **Transição de Carreira:** Após uma trajetória sólida na indústria e administração, migrei para o ecossistema tech há 5 meses através da **DEVCLUB**.
 - 🎓 **Formação:** Graduando em **Administração de Empresas** (Jan/2026) e Técnico em **Desenvolvimento Full Stack** (Dez/2026).
 - ⚙️ **Diferencial:** Trago a disciplina da **Gestão da Qualidade (ISO 9001)** e a agilidade do **Lean Manufacturing** para a escrita de código e organização de projetos.
 
 ## 🛠️ Tech Stack & Ferramentas
 
-### Desenvolvimento Web
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats
-
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jalmirtorquato&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalmirtorquato&layout=compact&theme=tokyonight" />
-</p>
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 
 ### Gestão e Análise
 - **Metodologias:** Lean Seis Sigma, 5S e OKRs.
-- **Data & Business:** Power BI, Excel Intermediario e ERPs.
+- **Data & Business:** Power BI, Excel Intermediario, ERPs.
 
 
 ## 📫 Vamos conversar?
